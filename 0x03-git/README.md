@@ -1,0 +1,1 @@
+Git is used to push code to GitHub.
